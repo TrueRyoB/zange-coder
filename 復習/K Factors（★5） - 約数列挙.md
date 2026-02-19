@@ -1,7 +1,7 @@
 # K Factors（★5） - 約数列挙
 
 ## 問題概要
-- リンク: [提出]( K Factors（★5）)
+- リンク: [提出](https://atcoder.jp/contests/typical90/submissions/73433733)
 - 難易度: 緑
 - タグ
   - 篩
